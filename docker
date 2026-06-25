@@ -1,0 +1,7 @@
+Docker packages an application along with its libraries and dependencies into a container.
+Containers ensure that applications run consistently across development, testing, and production environments.
+Docker is lightweight and uses fewer resources compared to traditional virtual machines.
+It helps developers deploy applications quickly and efficiently.
+Docker is widely used in DevOps, cloud computing, and microservices architectures.
+Docker images are used to create containers, and these images can be shared through repositories.
+It supports Linux, Windows, and various cloud platforms.

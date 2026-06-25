@@ -1,0 +1,13 @@
+Kubernetes (K8s) is an open-source platform used to automate the deployment, scaling, and management of containerized applications.
+
+Here are a few simple lines:
+
+Kubernetes helps manage containers across multiple servers efficiently.
+It automates tasks such as application deployment, scaling, load balancing, and recovery from failures.
+Kubernetes works well with container platforms such as Docker.
+It ensures high availability by automatically restarting failed containers and distributing workloads.
+Kubernetes is widely used in cloud computing, microservices, and DevOps environments.
+It supports deployment on on-premises infrastructure as well as cloud platforms.
+Major cloud providers offer managed Kubernetes services for easier administration.
+
+In one sentence: Kubernetes is a container orchestration platform that automates the deployment, scaling, and management of containerized applications.
